@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/juanp/Desktop/a/Nuevooooo/Arbol.h
+iostream
+-
+Nodo.h
+C:/Users/juanp/Desktop/a/Nuevooooo/Nodo.h
+string
+-
+
+C:/Users/juanp/Desktop/a/Nuevooooo/FileManager.h
+iostream
+-
+string
+-
+fstream
+-
+Arbol.h
+C:/Users/juanp/Desktop/a/Nuevooooo/Arbol.h
+Nodo.h
+C:/Users/juanp/Desktop/a/Nuevooooo/Nodo.h
+
+C:/Users/juanp/Desktop/a/Nuevooooo/Nodo.h
+iostream
+-
+
+C:/Users/juanp/Desktop/a/Nuevooooo/main.cpp
+iostream
+-
+FileManager.h
+C:/Users/juanp/Desktop/a/Nuevooooo/FileManager.h
+
